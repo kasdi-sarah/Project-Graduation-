@@ -27,6 +27,7 @@ import datetime
 from sklearn.linear_model import Lasso
 
 from sklearn.ensemble import RandomForestRegressor
+# Part one 
 data = pd.read_excel('data.xlsx')      
 data["Date"] = data["Date"].map(dt.datetime.toordinal)
 df = data.copy()    
