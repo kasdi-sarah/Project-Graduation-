@@ -6,4 +6,4 @@ Predictive maintenance
 
 # 2. The Thesis : 
 
-📄 [Graduation Thesis (PDF)] (docs/Memoire.pdf)
+📄 [Graduation Thesis (PDF)](Memoire.pdf)
