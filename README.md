@@ -7,3 +7,5 @@ Predictive maintenance
 # 2. The Graduation Thesis : 
 
 📄 [Graduation Thesis (PDF)](Memoire.pdf)
+
+\item Identified \textbf{Random Forest} as the most accurate model with the lowest prediction error among the tested algorithms.
