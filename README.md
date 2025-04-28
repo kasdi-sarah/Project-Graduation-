@@ -8,4 +8,4 @@ Predictive maintenance
 
 📄 [Graduation Thesis (PDF)](Memoire.pdf)
 
-# Identified Random Forest as the most accurate model with the lowest prediction error among the tested algorithms.
+_ Identified Random Forest as the most accurate model with the lowest prediction error among the tested algorithms.
